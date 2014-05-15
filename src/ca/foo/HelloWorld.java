@@ -1,4 +1,4 @@
-package foo;
+package ca.foo;
 
 public class HelloWorld {
 
